@@ -10,17 +10,17 @@
 ####使用方法：
 
  - **$ git clone git@github.com:matisha001/weex-WeexOne.git**
+ - 将./src/目录下的文件换成你所需要的文件
+ - npm run build
+ - weexpack run android/ios
 ***
-#####如何创建一个weex项目
+###如何创建一个weex项目
     1.安装命令 npm install -g weexpack@beta 
     2. 创建 weexpack 工程 weexpack create appName
     3. npm install
     4. 安装/移除 weex 应用模版 weexpack platform add/remove android/ios
     5. 安装/移除 weex 插件（可选项） weexpack plugin add/remove path/to/plugin
     6. 打包应用并安装运行 weexpack run android/ios(注意：打包之前要npm run build)
-
-
-
 
 
 
