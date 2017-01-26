@@ -1,13 +1,11 @@
 # weex-WeexOne
 ---
 ##weex的使用
-***
 ###介绍
 * Weex能够完美兼顾性能与动态性，让移动开发者通过简捷的前端语法写出Native级别的性能体验，并支持iOS、安卓、YunOS及Web等多端部署。
 
 * Weex主要解决了频繁发版和多端研发两大痛点，同时解决了前端语言性能差和显示效果受限的问题。
-***
-####使用方法：
+###使用方法：
 
  - **$ git clone git@github.com:matisha001/weex-WeexOne.git**
  - 将./src/目录下的文件换成你所需要的文件
@@ -20,9 +18,6 @@
     4. 安装/移除 weex 应用模版 weexpack platform add/remove android/ios
     5. 安装/移除 weex 插件（可选项） weexpack plugin add/remove path/to/plugin
     6. 打包应用并安装运行 weexpack run android/ios(注意：打包之前要npm run build)
-
-
-
 
 > 其他
 > ![weex](https://img.alicdn.com/tps/TB1zBLaPXXXXXXeXXXXXXXXXXXX-121-59.svg)
