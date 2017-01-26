@@ -1,5 +1,5 @@
 # weex-WeexOne
----
+
 ##weex的使用
 
 ###使用方法：
@@ -7,6 +7,8 @@
  - 将./src/目录下的文件换成你所需要的文件
  - npm run build
  - weexpack run android/ios
+
+
 ##如何创建一个weex项目
     1.安装命令 npm install -g weexpack@beta 
     2. 创建 weexpack 工程 weexpack create appName
