@@ -18,6 +18,14 @@
     4. 安装/移除 weex 应用模版 weexpack platform add/remove android/ios
     5. 安装/移除 weex 插件（可选项） weexpack plugin add/remove path/to/plugin
     6. 打包应用并安装运行 weexpack run android/ios(注意：打包之前要npm run build)
+
+
+
+
+
+
+
+> 其他
 > ![weex](https://img.alicdn.com/tps/TB1zBLaPXXXXXXeXXXXXXXXXXXX-121-59.svg)
 
 > [weex官网](https://weex-project.io/)<https://weex-project.io/>
