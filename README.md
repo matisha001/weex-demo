@@ -9,6 +9,14 @@
  - weexpack run android/ios
 
 
+
+
+##项目截图
+![weex](https://github.com/matisha001/weex-WeexOne/blob/master/Screenshot/Screenshot_2017-01-26-12-26-53.png)
+![weex](https://github.com/matisha001/weex-WeexOne/blob/master/Screenshot/Screenshot_2017-01-26-12-26-59.png)
+![weex](https://github.com/matisha001/weex-WeexOne/blob/master/Screenshot/Screenshot_2017-01-26-12-27-09.png)
+![weex](https://github.com/matisha001/weex-WeexOne/blob/master/Screenshot/Screenshot_2017-01-26-12-27-18.png)
+
 ##如何创建一个weex项目
     1.安装命令 npm install -g weexpack@beta 
     2. 创建 weexpack 工程 weexpack create appName
